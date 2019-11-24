@@ -1,0 +1,11 @@
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.exe
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.deps.json
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.runtimeconfig.json
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.runtimeconfig.dev.json
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.dll
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\bin\Debug\netcoreapp3.0\e business app.pdb
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\obj\Debug\netcoreapp3.0\e business app.csprojAssemblyReference.cache
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\obj\Debug\netcoreapp3.0\e business app.AssemblyInfoInputs.cache
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\obj\Debug\netcoreapp3.0\e business app.AssemblyInfo.cs
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\obj\Debug\netcoreapp3.0\e business app.dll
+C:\Users\MANZI\Desktop\c# assignement\e business app\e business app\obj\Debug\netcoreapp3.0\e business app.pdb

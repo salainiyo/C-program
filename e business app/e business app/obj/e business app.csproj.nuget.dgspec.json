@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MANZI\\Desktop\\c# assignement\\e business app\\e business app\\e business app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MANZI\\Desktop\\c# assignement\\e business app\\e business app\\e business app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MANZI\\Desktop\\c# assignement\\e business app\\e business app\\e business app.csproj",
+        "projectName": "e business app",
+        "projectPath": "C:\\Users\\MANZI\\Desktop\\c# assignement\\e business app\\e business app\\e business app.csproj",
+        "packagesPath": "C:\\Users\\MANZI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MANZI\\Desktop\\c# assignement\\e business app\\e business app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MANZI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
